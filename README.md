@@ -55,6 +55,7 @@ Follow the on-screen prompts to interact with the application. You can add, view
 4. Delete Student
 5. Search Students
 6. Exit
+
 1
 Enter student name:
 Bhas
@@ -73,6 +74,7 @@ Student added successfully.
 4. Delete Student
 5. Search Students
 6. Exit
+
 1
 Enter student name:
 Naba
@@ -91,6 +93,7 @@ Student added successfully.
 4. Delete Student
 5. Search Students
 6. Exit
+
 1
 Enter student name:
 Bhas
@@ -109,6 +112,7 @@ Student added successfully.
 4. Delete Student
 5. Search Students
 6. Exit
+
 2
 Student Records:
 ID: 3, Name: Bhas, Age: 23, Department: MSc Data Science, Year: 2
@@ -125,6 +129,7 @@ ID: 8, Name: Bhas, Age: 23, Department: MSc Statistics, Year: 2
 4. Delete Student
 5. Search Students
 6. Exit
+
 5
 Do you want to search for students? (yes/no)
 yes
@@ -134,6 +139,7 @@ Choose a search criteria:
 3. Search by Department
 4. Search by Year
 5. Search by Age
+
 2   
 Enter student Name:
 Bhas
@@ -149,6 +155,7 @@ ID: 8, Name: Bhas, Age: 23, Department: MSc Statistics, Year: 2
 4. Delete Student
 5. Search Students
 6. Exit
+
 4
 Enter the ID of the student to delete:
 6
@@ -161,6 +168,7 @@ Student deleted successfully.
 4. Delete Student
 5. Search Students
 6. Exit
+
 2
 Student Records:
 ID: 3, Name: Bhas, Age: 23, Department: MSc Data Science, Year: 2
@@ -176,6 +184,7 @@ ID: 8, Name: Bhas, Age: 23, Department: MSc Statistics, Year: 2
 4. Delete Student
 5. Search Students
 6. Exit
+
 6
 Exiting program.
 
