@@ -56,7 +56,7 @@ Follow the on-screen prompts to interact with the application. You can add, view
 5. Search Students
 6. Exit
 
-1  
+1<br>  
 Enter student name:  
 Bhas 
 Enter student age:  
