@@ -189,11 +189,3 @@ ID: 8, Name: Bhas, Age: 23, Department: MSc Statistics, Year: 2
 Exiting program.  
  
 
-## Contribution
-
-Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
-
-
-
-
-Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
