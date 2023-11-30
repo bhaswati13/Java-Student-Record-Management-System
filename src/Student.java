@@ -2,17 +2,19 @@ public class Student {
     private int id;
     private String name;
     private int age;
-    private double grade;
+    private String department;
+    private int year;
 
     public Student() {
         // Default constructor
     }
 
-    public Student(int id, String name, int age, double grade) {
+    public Student(int id, String name, int age, String department, int year) {
         this.id = id;
         this.name = name;
         this.age = age;
-        this.grade = grade;
+        this.department = department;
+        this.year = year;
     }
 
     // Getters and setters
@@ -41,16 +43,24 @@ public class Student {
         this.age = age;
     }
 
-    public double getGrade() {
-        return grade;
+    public String getDepartment() {
+        return department;
     }
 
-    public void setGrade(double grade) {
-        this.grade = grade;
+    public void setDepartment(String department) {
+        this.department = department;
+    }
+
+    public int getYear() {
+        return year;
+    }
+
+    public void setYear(int year) {
+        this.year = year;
     }
 
     @Override
     public String toString() {
-        return "ID: " + id + ", Name: " + name + ", Age: " + age + ", Grade: " + grade;
+        return "ID: " + id + ", Name: " + name + ", Age: " + age + ", Department: " + department + ", Year: " + year;
     }
 }
