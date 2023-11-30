@@ -94,14 +94,14 @@ Student added successfully.
 5. Search Students
 6. Exit
 
-1
+1  
 Enter student name:  
 Bhas  
 Enter student age:  
 23  
 Enter student department:  
-MSc Statistics  
-Enter student year:  
+MSc Statistics   
+Enter student year:   
 2  
 Student added successfully.  
 
@@ -116,10 +116,10 @@ Student added successfully.
 2  
 Student Records:  
 ID: 3, Name: Bhas, Age: 23, Department: MSc Data Science, Year: 2  
-ID: 4, Name: Nabanita Bardhan, Age: 19, Department: BSc Statistics, Year: 3    
+ID: 4, Name: Nabanita Bardhan, Age: 19, Department: BSc Statistics, Year: 3  
 ID: 5, Name: Bhas Chatterjee, Age: 24, Department: MSc Statistics, Year: 2  
-ID: 6, Name: Bhas, Age: 22, Department: MSc Data Science, Year: 2   
-ID: 7, Name: Naba, Age: 19, Department: BSc Statistics, Year: 3    
+ID: 6, Name: Bhas, Age: 22, Department: MSc Data Science, Year: 2  
+ID: 7, Name: Naba, Age: 19, Department: BSc Statistics, Year: 3  
 ID: 8, Name: Bhas, Age: 23, Department: MSc Statistics, Year: 2  
 
 **Choose an option:**
@@ -135,13 +135,13 @@ Do you want to search for students? (yes/no)
 yes  
 Choose a search criteria:  
 1. Search by ID  
-2. Search by Name  
-3. Search by Department  
+2. Search by Name    
+3. Search by Department    
 4. Search by Year  
 5. Search by Age  
 
-2    
-Enter student Name:  
+2  
+Enter student Name:   
 Bhas  
 Search Results:  
 ID: 3, Name: Bhas, Age: 23, Department: MSc Data Science, Year: 2  
@@ -175,7 +175,7 @@ ID: 3, Name: Bhas, Age: 23, Department: MSc Data Science, Year: 2
 ID: 4, Name: Nabanita Bardhan, Age: 19, Department: BSc Statistics, Year: 3  
 ID: 5, Name: Bhas Chatterjee, Age: 24, Department: MSc Statistics, Year: 2  
 ID: 7, Name: Naba, Age: 19, Department: BSc Statistics, Year: 3  
-ID: 8, Name: Bhas, Age: 23, Department: MSc Statistics, Year: 2  
+ID: 8, Name: Bhas, Age: 23, Department: MSc Statistics, Year: 2    
  
 **Choose an option:**
 1. Add Student
