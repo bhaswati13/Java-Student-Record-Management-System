@@ -46,9 +46,145 @@ This project is a basic Student Record Management System implemented in Java. It
 
 Follow the on-screen prompts to interact with the application. You can add, view, update, delete, and search for student records.
 
-## Contributing
+### Sample Output
+
+**Choose an option:**
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Search Students
+6. Exit
+1
+Enter student name:
+Bhas
+Enter student age:
+22
+Enter student department:
+MSc Data Science
+Enter student year:
+2
+Student added successfully.
+
+**Choose an option:**
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Search Students
+6. Exit
+1
+Enter student name:
+Naba
+Enter student age:
+19
+Enter student department:
+BSc Statistics
+Enter student year:
+3
+Student added successfully.
+
+**Choose an option:**
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Search Students
+6. Exit
+1
+Enter student name:
+Bhas
+Enter student age:
+23
+Enter student department:
+MSc Statistics
+Enter student year:
+2
+Student added successfully.
+
+**Choose an option:**
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Search Students
+6. Exit
+2
+Student Records:
+ID: 3, Name: Bhas, Age: 23, Department: MSc Data Science, Year: 2
+ID: 4, Name: Nabanita Bardhan, Age: 19, Department: BSc Statistics, Year: 3
+ID: 5, Name: Bhas Chatterjee, Age: 24, Department: MSc Statistics, Year: 2
+ID: 6, Name: Bhas, Age: 22, Department: MSc Data Science, Year: 2
+ID: 7, Name: Naba, Age: 19, Department: BSc Statistics, Year: 3
+ID: 8, Name: Bhas, Age: 23, Department: MSc Statistics, Year: 2
+
+**Choose an option:**
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Search Students
+6. Exit
+5
+Do you want to search for students? (yes/no)
+yes
+Choose a search criteria:
+1. Search by ID
+2. Search by Name
+3. Search by Department
+4. Search by Year
+5. Search by Age
+2   
+Enter student Name:
+Bhas
+Search Results:
+ID: 3, Name: Bhas, Age: 23, Department: MSc Data Science, Year: 2
+ID: 6, Name: Bhas, Age: 22, Department: MSc Data Science, Year: 2
+ID: 8, Name: Bhas, Age: 23, Department: MSc Statistics, Year: 2
+
+**Choose an option:**
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Search Students
+6. Exit
+4
+Enter the ID of the student to delete:
+6
+Student deleted successfully.
+
+**Choose an option:**
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Search Students
+6. Exit
+2
+Student Records:
+ID: 3, Name: Bhas, Age: 23, Department: MSc Data Science, Year: 2
+ID: 4, Name: Nabanita Bardhan, Age: 19, Department: BSc Statistics, Year: 3
+ID: 5, Name: Bhas Chatterjee, Age: 24, Department: MSc Statistics, Year: 2
+ID: 7, Name: Naba, Age: 19, Department: BSc Statistics, Year: 3
+ID: 8, Name: Bhas, Age: 23, Department: MSc Statistics, Year: 2
+
+**Choose an option:**
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Search Students
+6. Exit
+6
+Exiting program.
+
+
+## Contribution
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
 
-```
+
+
+Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
