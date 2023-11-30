@@ -4,7 +4,7 @@ A simple command-line application for managing student records with MySQL databa
 
 ## Overview
 
-This project is a basic Student Record Management System implemented in Java. It allows users to perform CRUD operations (Create, Read, Update, Delete) on student records. The application uses MySQL to store and retrieve data.
+This project is a basic Student Record Management System implemented in Java. It allows users to perform CRUD operations (Create, Read, Update, Delete) and Search by using different parameters on student records. The application uses MySQL to store and retrieve data.
 
 ## Features
 
