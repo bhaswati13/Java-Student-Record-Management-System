@@ -56,9 +56,9 @@ Follow the on-screen prompts to interact with the application. You can add, view
 5. Search Students
 6. Exit
 
-1<br>  
+1  
 Enter student name:  
-Bhas 
+Bhas  
 Enter student age:  
 22  
 Enter student department:  
